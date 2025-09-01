@@ -32,4 +32,15 @@ uct.ac.za 96,
 media.berkeley.edu 56,
 ufp.pt 28,
 gmail.com 25,
-et.gatech.edu 17,
+et.gatech.edu 17
+
+Notes
+1. Make sure your input file (mbox.txt or another email dataset) is in the same folder as the script.
+2. The database file emaildb.sqlite will be created automatically.
+
+Learning Context
+1. This project is inspired by the Python for Everybody course (Dr. Charles Severance) to practice:
+2. File handling
+3. String manipulation
+4. Database operations with SQLite
+
